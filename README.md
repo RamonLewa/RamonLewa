@@ -22,4 +22,4 @@
   
 </div>
 
-<img align="left" src="https://profile-counter.glitch.me/RamonLewa/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/RamonLewa/count.svg?"  />
