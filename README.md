@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Ramon 👋
 
-![RamonLewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonLewa&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLewa&layout=compact&theme=github_dark)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamonLewa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonLewa&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
